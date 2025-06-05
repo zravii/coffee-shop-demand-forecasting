@@ -29,7 +29,7 @@ This project builds and compares multiple forecasting models to predict daily sa
 
 ## 📊 Final Results
 
-![MAE Comparison](./plots/model_mae_comparison.png)
+![MAE Comparison](model_mae_comparison.png)
 
 > SARIMAX achieved the lowest forecasting error, making it the recommended model for short-term demand prediction.
 
